@@ -2,7 +2,7 @@
 
 I am a Software Engineer based on building a well-responsive application, tackling problems and thinking out of the box. I believe in open source and strive to write code that always follows web standards.
 
-**SKills and Expertise**
+**Skills and Expertise**
 
 1. Frontend (HTML, CSS3, JAVASCRIPT, UX DESIGN and frameworks such as BOOTSTRAP, SCSS)
 2. Backend (PHP, MYSQL and WORDPRESS)
