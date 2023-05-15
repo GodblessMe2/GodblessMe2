@@ -5,7 +5,7 @@ I am a Software Engineer based on building a well-responsive application, tackli
 **Skills and Expertise**
 
 1. Frontend (HTML, CSS3, JAVASCRIPT, UX DESIGN and frameworks such as BOOTSTRAP, SCSS)
-2. Backend (PHP, MYSQL and WORDPRESS)
+2. Backend (NodeJs, Express, MongoDB, PHP, MYSQL and WORDPRESS)
 3. Photoshop for small design 
 4. Digital Marketing
 
